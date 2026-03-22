@@ -12,9 +12,9 @@ import requests
 import streamlit as st
 
 
-DEFAULT_OWNER = "YoungCan-Wang"
+DEFAULT_OWNER = "SparkHex"
 DEFAULT_REPO = "Wyckoff-Analysis"
-DEFAULT_REF = "feature/visible"
+DEFAULT_REF = "main"
 DEFAULT_WORKFLOW_FILE = "web_quant_jobs.yml"
 
 
